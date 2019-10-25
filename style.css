@@ -1,0 +1,52 @@
+
+.collapsible {
+    background-color: #777;
+    color: white;
+    margin-top: 1%;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    height: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  .active, .collapsible:hover {
+    background-color: #555;
+  }
+  .content {
+    color: black;
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: lightgray
+  }
+  .text{
+      padding-top: 1%;
+  }
+  .btn{
+    margin-top: 1%;
+  }
+  .my_5{
+
+    width: 100%;
+    color: white;
+    text-align: center;
+    
+  }
+  .how_many{
+    text-align: center;
+    float: left;
+  }
+ 
+  .how_many:first-child{
+    color:blue;
+    margin-left: 0px;
+  }
+ 
+  .zniknij{
+    display: none;
+  }
+  

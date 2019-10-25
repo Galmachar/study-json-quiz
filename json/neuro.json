@@ -1,0 +1,32 @@
+[
+    {
+        "pytanie":"play mariokart1", 
+        "odpowiedz":"derp", 
+        "id":1
+    },
+    {
+        "pytanie":"play mariokart2", 
+        "odpowiedz":"derp2", 
+        "id":2
+    },
+    {
+        "pytanie":"play mariokart3", 
+        "odpowiedz":"shaun", 
+        "id":3
+    },
+    {
+        "pytanie":"play mariokart4", 
+        "odpowiedz":"ziom", 
+        "id":4
+    },
+    {
+        "pytanie":"play mariokart5", 
+        "odpowiedz":"ziom", 
+        "id":5
+    },
+    {
+        "pytanie":"play mariokart6", 
+        "odpowiedz":"rak", 
+        "id":6
+    }
+]
